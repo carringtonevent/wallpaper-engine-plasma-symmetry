@@ -138,11 +138,11 @@
 				"fraction" : false,
 				"index" : 3,
 				"max" : 10,
-				"min" : 0,
+				"min" : 1,
 				"order" : 103,
 				"text" : "Mousefollow Strength",
 				"type" : "slider",
-				"value" : 3
+				"value" : 1
 			},
 			"rotationspeed" : 
 			{
