@@ -209,6 +209,9 @@
 			}
 		}
 	},
+	"preview" : "preview.jpg",
+	"snapshotformat" : -1,
+	"snapshotoverlay" : "",
 	"title" : "Plasma Symmetry",
 	"type" : "web",
 	"version" : 0
