@@ -26,6 +26,8 @@ mat2 Rot(float a) {
 }
 
 float FluidLayer(vec2 uv, float gi) {
+    // main inspiration: https://www.shadertoy.com/view/WtdXR8
+    // license: unknown
     float t = iTime + gi * 253.234;
     float maxIter = lineModulationIterations + 1.;
     for (float i = 1.; i < maxIter; i++) {
