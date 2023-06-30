@@ -16,10 +16,10 @@
 			{
 				"condition" : "showlayermenu.value == true",
 				"fraction" : false,
-				"index" : 16,
+				"index" : 8,
 				"max" : 15,
 				"min" : 0,
-				"order" : 116,
+				"order" : 108,
 				"text" : "Fold Symmetry Iterations",
 				"type" : "slider",
 				"value" : 3
@@ -28,10 +28,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 12,
+				"index" : 17,
 				"max" : 10,
 				"min" : 3,
-				"order" : 112,
+				"order" : 117,
 				"text" : "Highlight Size",
 				"type" : "slider",
 				"value" : 10
@@ -40,10 +40,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 13,
+				"index" : 18,
 				"max" : 100,
 				"min" : -100,
-				"order" : 113,
+				"order" : 118,
 				"text" : "Highlight Speed",
 				"type" : "slider",
 				"value" : 20
@@ -52,10 +52,10 @@
 			{
 				"condition" : "showlayermenu.value == true",
 				"fraction" : false,
-				"index" : 15,
+				"index" : 7,
 				"max" : 10,
 				"min" : 1,
-				"order" : 115,
+				"order" : 107,
 				"text" : "Layers",
 				"type" : "slider",
 				"value" : 6
@@ -64,10 +64,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 7,
+				"index" : 12,
 				"max" : 9,
 				"min" : 0,
-				"order" : 107,
+				"order" : 112,
 				"text" : "Line Modulation Iterations",
 				"type" : "slider",
 				"value" : 9
@@ -76,10 +76,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 9,
+				"index" : 14,
 				"max" : 200,
 				"min" : -200,
-				"order" : 109,
+				"order" : 114,
 				"text" : "Line X Modulation Speed",
 				"type" : "slider",
 				"value" : 30
@@ -88,10 +88,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 8,
+				"index" : 13,
 				"max" : 300,
 				"min" : 0,
-				"order" : 108,
+				"order" : 113,
 				"text" : "Line X Modulation Strength",
 				"type" : "slider",
 				"value" : 150
@@ -100,10 +100,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 11,
+				"index" : 16,
 				"max" : 200,
 				"min" : -200,
-				"order" : 111,
+				"order" : 116,
 				"text" : "Line Y Modulation Speed",
 				"type" : "slider",
 				"value" : 20
@@ -112,10 +112,10 @@
 			{
 				"condition" : "showlinemenu.value == true",
 				"fraction" : false,
-				"index" : 10,
+				"index" : 15,
 				"max" : 300,
 				"min" : 0,
-				"order" : 110,
+				"order" : 115,
 				"text" : "Line Y Modulation Strength",
 				"type" : "slider",
 				"value" : 250
@@ -148,10 +148,10 @@
 			{
 				"condition" : "showlayermenu.value == true",
 				"fraction" : false,
-				"index" : 18,
+				"index" : 10,
 				"max" : 200,
 				"min" : -200,
-				"order" : 118,
+				"order" : 110,
 				"text" : "Rotation Speed",
 				"type" : "slider",
 				"value" : 10
@@ -160,10 +160,10 @@
 			{
 				"condition" : "showlayermenu.value == true",
 				"fraction" : false,
-				"index" : 17,
+				"index" : 9,
 				"max" : 50,
 				"min" : -50,
-				"order" : 117,
+				"order" : 109,
 				"text" : "Scalespeed",
 				"type" : "slider",
 				"value" : 1
@@ -177,16 +177,16 @@
 			},
 			"showlayermenu" : 
 			{
-				"index" : 14,
-				"order" : 114,
+				"index" : 6,
+				"order" : 106,
 				"text" : "Show Layer Menu",
 				"type" : "bool",
 				"value" : false
 			},
 			"showlinemenu" : 
 			{
-				"index" : 6,
-				"order" : 106,
+				"index" : 11,
+				"order" : 111,
 				"text" : "Show Line Menu",
 				"type" : "bool",
 				"value" : false
