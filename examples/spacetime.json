@@ -19,6 +19,7 @@
   "showlayermenu": false,
   "showlinemenu": false,
   "showmousemenu": false,
+  "showwarninghint": false,
   "supportfpssettings": false,
   "wec_brs": 50,
   "wec_con": 50,

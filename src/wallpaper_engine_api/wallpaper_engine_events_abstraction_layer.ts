@@ -3,6 +3,8 @@ import { Listenable } from '../helpers/listenable'
 const possibleEvents = {
   // boolean
   supportfpssettings: (_: boolean) => {},
+  // boolean
+  showwarninghint: (_: boolean) => {},
   // int (0 - 10) default: 3
   mousefollowstrength: (_: number) => {},
   // int (-150 - 150) default: 150
