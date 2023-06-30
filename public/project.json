@@ -130,7 +130,7 @@
 				"order" : 105,
 				"text" : "Mousefollow Modifier",
 				"type" : "slider",
-				"value" : 150
+				"value" : 20
 			},
 			"mousefollowstrength" : 
 			{

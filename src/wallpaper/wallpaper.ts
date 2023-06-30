@@ -60,7 +60,7 @@ let mouseFollowStrength = 3
 wallpaperEngineEventsAbstractionLayer.addListener('mousefollowstrength', strength => mouseFollowStrength = strength)
 
 // mouse follow modifier
-let mouseFollowModifier = 1.5
+let mouseFollowModifier = 0.2
 let mouseFollowModifierSmooth = mouseFollowModifier
 wallpaperEngineEventsAbstractionLayer.addListener('mousefollowmodifier', modifier => mouseFollowModifier = modifier * 0.01)
 

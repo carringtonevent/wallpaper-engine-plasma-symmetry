@@ -7,7 +7,7 @@ const possibleEvents = {
   showwarninghint: (_: boolean) => {},
   // int (0 - 10) default: 3
   mousefollowstrength: (_: number) => {},
-  // int (-150 - 150) default: 150
+  // int (-150 - 150) default: 20
   mousefollowmodifier: (_: number) => {},
   // int (0 - 15) default: 3
   foldsymmetryiterations: (_: number) => {},

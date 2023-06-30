@@ -11,7 +11,7 @@
   "linexmodulationstrength": 150,
   "lineymodulationspeed": 20,
   "lineymodulationstrength": 250,
-  "mousefollowmodifier": 150,
+  "mousefollowmodifier": 20,
   "mousefollowstrength": 1,
   "rotationspeed": 10,
   "scalespeed": 1,
