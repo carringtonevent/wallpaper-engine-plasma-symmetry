@@ -116,9 +116,10 @@ wallpaperEngineEventsAbstractionLayer.addListener('highlightspeed', speed => hig
 
 // smooth operations
 const settingsTransitionStrength = 10
+const maxDelta = 1000 / 60
 scene.onBeforeRenderObservable.add(() => {
   // delta
-  const delta = engine.getDeltaTime()
+  const delta = Math.min(engine.getDeltaTime(), maxDelta)
   // smoothing mouse
   iMouseSmooth.x += (iMouse.x - iMouseSmooth.x) * mouseFollowStrength * delta * 0.001
   iMouseSmooth.y += (iMouse.y - iMouseSmooth.y) * mouseFollowStrength * delta * 0.001
